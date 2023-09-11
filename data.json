@@ -1,0 +1,156 @@
+{
+    "Main Table": [
+        {
+            "Title": "Witch of Purple Rose"
+        },
+        {
+            "Occupation": "Knights of Favonius"
+        },
+        {
+            "Association": "MONDSTADT"
+        },
+        {
+            "Rarity": ""
+        },
+        {
+            "Weapon": "Catalyst"
+        },
+        {
+            "Element": "Electro"
+        },
+        {
+            "Day of Birth": "9"
+        },
+        {
+            "Month of Birth": "6"
+        },
+        {
+            "Vision (Introduced)": "Electro"
+        },
+        {
+            "Constellation (Introduced)": "Tempus Fugit"
+        },
+        {
+            "Chinese Seuyu": "钟可"
+        },
+        {
+            "Japanese Seuyu": "田中理恵"
+        },
+        {
+            "English Seuyu": "Mara Junot"
+        },
+        {
+            "Korean Seuyu": "Park Go-woon"
+        },
+        {
+            "Description": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Akademiya to be their most distinguished graduate in the past two centuries."
+        },
+        {
+            "Character Ascension Materials": ""
+        },
+        {
+            "Skill Ascension Materials": ""
+        }
+    ],
+    "Additional Table": [
+        {
+            "Level": "Lv",
+            "HP": "HP",
+            "Attack": "Atk",
+            "Defense": "Def",
+            "CritRate%": "CritRate%",
+            "CritDMG%": "CritDMG%",
+            "Bonus EM": "Bonus EM",
+            "Materials": "Materials",
+            "Total Materials": "Total Materials"
+        },
+        {
+            "Level": "1",
+            "HP": "802",
+            "Attack": "19.41",
+            "Defense": "48.07",
+            "CritRate%": "5.0%",
+            "CritDMG%": "50.0%",
+            "Bonus EM": "0%",
+            "Materials": "",
+            "Total Materials": ""
+        },
+        {
+            "Level": "20",
+            "HP": "2061",
+            "Attack": "49.87",
+            "Defense": "123.49",
+            "CritRate%": "5.0%",
+            "CritDMG%": "50.0%",
+            "Bonus EM": "0%",
+            "Materials": "13320000",
+            "Total Materials": "13320000"
+        },
+        {
+            "Level": "40",
+            "HP": "3985",
+            "Attack": "96.41",
+            "Defense": "238.76",
+            "CritRate%": "5.0%",
+            "CritDMG%": "50.0%",
+            "Bonus EM": "0%",
+            "Materials": "32101540000",
+            "Total Materials": "113186000032"
+        },
+        {
+            "Level": "50",
+            "HP": "5074",
+            "Attack": "122.75",
+            "Defense": "303.98",
+            "CritRate%": "5.0%",
+            "CritDMG%": "50.0%",
+            "Bonus EM": "24",
+            "Materials": "64201260000",
+            "Total Materials": "13318120K9612"
+        },
+        {
+            "Level": "60",
+            "HP": "6305",
+            "Attack": "152.52",
+            "Defense": "377.71",
+            "CritRate%": "5.0%",
+            "CritDMG%": "50.0%",
+            "Bonus EM": "48",
+            "Materials": "38301880000",
+            "Total Materials": "16318200K914303"
+        },
+        {
+            "Level": "70",
+            "HP": "7393",
+            "Attack": "178.84",
+            "Defense": "442.88",
+            "CritRate%": "5.0%",
+            "CritDMG%": "50.0%",
+            "Bonus EM": "48",
+            "Materials": "6124512100K",
+            "Total Materials": "110818300K92630912"
+        },
+        {
+            "Level": "80",
+            "HP": "8481",
+            "Attack": "205.18",
+            "Defense": "508.1",
+            "CritRate%": "5.0%",
+            "CritDMG%": "50.0%",
+            "Bonus EM": "72",
+            "Materials": "6206024120K",
+            "Total Materials": "116818420K946309366"
+        },
+        {
+            "Level": "90",
+            "HP": "9570",
+            "Attack": "231.51",
+            "Defense": "573.32",
+            "CritRate%": "5.0%",
+            "CritDMG%": "50.0%",
+            "Bonus EM": "96",
+            "Materials": "",
+            "Total Materials": ""
+        }
+    ]
+}
